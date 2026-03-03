@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "卒業､そして未来へ｡",
+  "base_artist": "Monkey Majik + SEAMO",
+  "createdAt": "2026-03-03T10:02:38.250087Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "卒業、そして未来へ。",
+      "artist": "Monkey Majik + SEAMO",
+      "has_synced": false,
+      "path": "select/pl_01_卒業、そして未来へ。_Monkey_Majik_+_SEAMO.txt"
+    }
+  ]
+}
